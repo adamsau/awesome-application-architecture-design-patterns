@@ -1,4 +1,4 @@
-# awesome-application-design-architecture
+# awesome-application-architecture-design
 A curated application design in high level architecture, design patterns, and coding style, the defacto standard.
 
 Contributes are welcome! Let's standardise and create high quality designs!
